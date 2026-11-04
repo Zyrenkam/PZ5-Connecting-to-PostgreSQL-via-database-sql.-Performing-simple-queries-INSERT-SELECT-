@@ -16,9 +16,15 @@
 
 ## Структура проекта
 pz5-db/
+
 ├── main.go
+
 ├── db.go
+
 ├── repository.go
+
 ├── go.mod
+
 ├── go.sum
+
 └── README.md
